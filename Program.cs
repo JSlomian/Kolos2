@@ -19,8 +19,22 @@ namespace Kolokwium2
             // Task.WritePrimes(1,100);
 
             //zad 5
+            // Task.DisplayMatrixes(5,5);
+
+            //zad6
+            // Task.CharCounter("abrakadabra");
+
+            //zad7
+            // Task.CountUsageYears();
+
+            //zad8
+            // Task.Encryption("DRZEWO");
+
+            //zad9
+            // Task.EnumInfo();
+
+            //zad10
+            // Task.DisplayDate();
         }
-
-
     }
 }
